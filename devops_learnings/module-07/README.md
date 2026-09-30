@@ -2145,3 +2145,12 @@ Persistent storage
 ```
 
 Those will be handled separately after the Pod + Deployment layer is fully understood.
+
+
+# Repository
+
+Task Manager repository:
+
+``` text
+https://github.com/Nandani2024-tech/task_manager_docker_compose
+```
